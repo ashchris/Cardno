@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\id student\desktop\asher c\cardno\cardno\source.cpp(48): warning C4715: 'menu': not all control paths return a value
+  Cardno.vcxproj -> C:\Users\iD Student\Desktop\Asher C\Cardno\Debug\Cardno.exe
+  Cardno.vcxproj -> C:\Users\iD Student\Desktop\Asher C\Cardno\Debug\Cardno.pdb (Full PDB)
