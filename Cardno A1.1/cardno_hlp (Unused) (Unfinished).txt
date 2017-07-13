@@ -1,0 +1,45 @@
+CARDNO is a game created by Asher Collier
+and an instructor from iD Tech Camps, stage
+named "Pixel." This terminal-based video
+game is programmed in the language C++ with
+the software "Microsoft Visual Studio 2015."
+The objective of the game is to trade cards
+with your opponent to have your five cards
+go in this exact pattern:
+1 2 3 2 1
+
+This can apply with other patterns, like:
+10 11 12 11 10
+
+You will start out with a screen like this:
+-------------------------------------------
+Your cards:
+1: 2  2: 12  3: 13  4: 9  5: 4
+------------------------------
+Your opponent's cards:
+1: 4  2: 7  3: 12  4: 12  5: 5
+-------------------------------------------
+There will be a prompt that will tell you
+which card number to pick.
+
+A CARD NUMBER is the card that has the
+colon next to it.
+
+ -------------------------------------------
+ Your cards:
+----
+|1:| 2  2: 12  3: 13  4: 9  5: 4
+---- 
+ ------------------------------
+ Your opponent's cards:
+ 1: 4  2: 7  3: 12  4: 12  5: 5
+ -------------------------------------------
+
+Let's say that you picked the boxed number,
+so that means that you picked the card '2'.
+
+Then, the enemy will pick his card number.
+
+After that, there will be a prompt showing
+the card that the opponent picked, and asking
+you if you 
